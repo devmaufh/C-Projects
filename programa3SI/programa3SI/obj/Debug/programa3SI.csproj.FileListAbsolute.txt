@@ -1,0 +1,7 @@
+C:\Users\mauri\source\repos\programa3SI\programa3SI\bin\Debug\programa3SI.exe.config
+C:\Users\mauri\source\repos\programa3SI\programa3SI\bin\Debug\programa3SI.exe
+C:\Users\mauri\source\repos\programa3SI\programa3SI\bin\Debug\programa3SI.pdb
+C:\Users\mauri\source\repos\programa3SI\programa3SI\obj\Debug\programa3SI.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\programa3SI\programa3SI\obj\Debug\programa3SI.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\programa3SI\programa3SI\obj\Debug\programa3SI.exe
+C:\Users\mauri\source\repos\programa3SI\programa3SI\obj\Debug\programa3SI.pdb

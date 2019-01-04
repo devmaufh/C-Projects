@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Promedios_DGV", "Promedios_DGV\Promedios_DGV.csproj", "{1180655D-0ED7-46ED-85F5-E7A07528A0EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1180655D-0ED7-46ED-85F5-E7A07528A0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1180655D-0ED7-46ED-85F5-E7A07528A0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1180655D-0ED7-46ED-85F5-E7A07528A0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1180655D-0ED7-46ED-85F5-E7A07528A0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84412FDB-8F4C-476D-9716-56E65F26BE1C}
+	EndGlobalSection
+EndGlobal

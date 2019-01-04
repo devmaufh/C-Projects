@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\bin\Debug\Segundo_fechas.exe.config
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\bin\Debug\Segundo_fechas.exe
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\bin\Debug\Segundo_fechas.pdb
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\obj\Debug\Segundo_fechas.Form1.resources
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\obj\Debug\Segundo_fechas.Properties.Resources.resources
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\obj\Debug\Segundo_fechas.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\obj\Debug\Segundo_fechas.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\obj\Debug\Segundo_fechas.exe
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\obj\Debug\Segundo_fechas.pdb
+C:\Users\mauri\source\repos\Segundo_fechas\Segundo_fechas\obj\Debug\Segundo_fechas.csprojResolveAssemblyReference.cache

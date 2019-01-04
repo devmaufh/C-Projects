@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms_programa_Residui", "Forms_programa_Residui\Forms_programa_Residui.csproj", "{E3622EFD-F3B2-4926-B499-3CFE148CC4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3622EFD-F3B2-4926-B499-3CFE148CC4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3622EFD-F3B2-4926-B499-3CFE148CC4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3622EFD-F3B2-4926-B499-3CFE148CC4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3622EFD-F3B2-4926-B499-3CFE148CC4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8872F27-A325-4E39-A3C0-57D675DAC25E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\mauri\source\repos\Segundo_Factorial\Segundo_Factorial\obj\Debug\Segundo_Factorial.Form1.resources
+C:\Users\mauri\source\repos\Segundo_Factorial\Segundo_Factorial\obj\Debug\Segundo_Factorial.Properties.Resources.resources
+C:\Users\mauri\source\repos\Segundo_Factorial\Segundo_Factorial\obj\Debug\Segundo_Factorial.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Segundo_Factorial\Segundo_Factorial\obj\Debug\Segundo_Factorial.csproj.CoreCompileInputs.cache

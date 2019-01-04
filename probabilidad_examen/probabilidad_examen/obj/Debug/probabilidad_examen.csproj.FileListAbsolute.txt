@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\bin\Debug\probabilidad_examen.exe.config
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\bin\Debug\probabilidad_examen.exe
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\bin\Debug\probabilidad_examen.pdb
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\obj\Debug\probabilidad_examen.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\obj\Debug\probabilidad_examen.Form1.resources
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\obj\Debug\probabilidad_examen.Properties.Resources.resources
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\obj\Debug\probabilidad_examen.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\obj\Debug\probabilidad_examen.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\obj\Debug\probabilidad_examen.exe
+C:\Users\mauri\source\repos\probabilidad_examen\probabilidad_examen\obj\Debug\probabilidad_examen.pdb

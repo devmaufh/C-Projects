@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segundo_Factorial", "Segundo_Factorial\Segundo_Factorial.csproj", "{3733231B-2C81-45A2-B075-72A382879781}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6DEB1E70-0CCE-4468-BC51-31FA51E94224}"
+	ProjectSection(SolutionItems) = preProject
+		..\Segundo_Programa3_Orak\Segundo_Programa3_Orak\Form1.cs = ..\Segundo_Programa3_Orak\Segundo_Programa3_Orak\Form1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3733231B-2C81-45A2-B075-72A382879781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3733231B-2C81-45A2-B075-72A382879781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3733231B-2C81-45A2-B075-72A382879781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3733231B-2C81-45A2-B075-72A382879781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09AD2884-6336-4B0B-A2F0-1B525EDF8C1C}
+	EndGlobalSection
+EndGlobal

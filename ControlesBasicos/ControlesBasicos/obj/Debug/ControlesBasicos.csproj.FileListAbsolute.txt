@@ -1,0 +1,7 @@
+C:\Users\mauri_000\source\repos\ControlesBasicos\ControlesBasicos\bin\Debug\ControlesBasicos.exe.config
+C:\Users\mauri_000\source\repos\ControlesBasicos\ControlesBasicos\bin\Debug\ControlesBasicos.exe
+C:\Users\mauri_000\source\repos\ControlesBasicos\ControlesBasicos\bin\Debug\ControlesBasicos.pdb
+C:\Users\mauri_000\source\repos\ControlesBasicos\ControlesBasicos\obj\Debug\ControlesBasicos.csprojResolveAssemblyReference.cache
+C:\Users\mauri_000\source\repos\ControlesBasicos\ControlesBasicos\obj\Debug\ControlesBasicos.csproj.CoreCompileInputs.cache
+C:\Users\mauri_000\source\repos\ControlesBasicos\ControlesBasicos\obj\Debug\ControlesBasicos.exe
+C:\Users\mauri_000\source\repos\ControlesBasicos\ControlesBasicos\obj\Debug\ControlesBasicos.pdb

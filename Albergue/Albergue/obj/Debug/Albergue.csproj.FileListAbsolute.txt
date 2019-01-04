@@ -1,0 +1,16 @@
+C:\Users\mauri_000\source\repos\Albergue\Albergue\bin\Debug\Albergue.exe.config
+C:\Users\mauri_000\source\repos\Albergue\Albergue\bin\Debug\Albergue.exe
+C:\Users\mauri_000\source\repos\Albergue\Albergue\bin\Debug\Albergue.pdb
+C:\Users\mauri_000\source\repos\Albergue\Albergue\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.Form1.resources
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.Properties.Resources.resources
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.csproj.GenerateResource.Cache
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.csproj.CoreCompileInputs.cache
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.exe
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.pdb
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.CosultaPaciente.resources
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.Registrar.resources
+C:\Users\mauri_000\source\repos\Albergue\Albergue\bin\Debug\MySql.Data.dll
+C:\Users\mauri_000\source\repos\Albergue\Albergue\bin\Debug\MySql.Data.xml
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.csprojResolveAssemblyReference.cache
+C:\Users\mauri_000\source\repos\Albergue\Albergue\obj\Debug\Albergue.Registros.resources

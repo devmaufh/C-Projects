@@ -1,0 +1,15 @@
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.Form1.resources
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.Properties.Resources.resources
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\bin\Debug\Promedios_DGV.exe.config
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\bin\Debug\Promedios_DGV.exe
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\bin\Debug\Promedios_DGV.pdb
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.exe
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.pdb
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.Grafica.resources
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.Grafico.resources
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.Grafico_2.resources
+C:\Users\mauri\source\repos\Promedios_DGV\Promedios_DGV\obj\Debug\Promedios_DGV.Porcentajes.resources

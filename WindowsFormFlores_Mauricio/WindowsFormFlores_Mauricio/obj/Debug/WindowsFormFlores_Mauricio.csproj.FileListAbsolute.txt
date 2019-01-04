@@ -1,0 +1,11 @@
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\bin\Debug\WindowsFormFlores_Mauricio.exe.config
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\bin\Debug\WindowsFormFlores_Mauricio.exe
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\bin\Debug\WindowsFormFlores_Mauricio.pdb
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\obj\Debug\WindowsFormFlores_Mauricio.csprojResolveAssemblyReference.cache
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\obj\Debug\WindowsFormFlores_Mauricio.Form1.resources
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\obj\Debug\WindowsFormFlores_Mauricio.Properties.Resources.resources
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\obj\Debug\WindowsFormFlores_Mauricio.csproj.GenerateResource.Cache
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\obj\Debug\WindowsFormFlores_Mauricio.csproj.CoreCompileInputs.cache
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\obj\Debug\WindowsFormFlores_Mauricio.exe
+c:\users\mauri\source\repos\WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio\obj\Debug\WindowsFormFlores_Mauricio.pdb

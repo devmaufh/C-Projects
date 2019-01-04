@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormFlores_Mauricio", "WindowsFormFlores_Mauricio\WindowsFormFlores_Mauricio.csproj", "{73BEC237-1D35-431F-BE4D-6F6BF9011079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BEC237-1D35-431F-BE4D-6F6BF9011079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BEC237-1D35-431F-BE4D-6F6BF9011079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BEC237-1D35-431F-BE4D-6F6BF9011079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BEC237-1D35-431F-BE4D-6F6BF9011079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09F597E5-50E3-4505-90EA-8BA2B1B120DA}
+	EndGlobalSection
+EndGlobal

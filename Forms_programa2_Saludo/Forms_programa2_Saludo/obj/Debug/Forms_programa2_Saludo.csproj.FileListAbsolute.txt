@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\bin\Debug\Forms_programa2_Saludo.exe.config
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\bin\Debug\Forms_programa2_Saludo.exe
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\bin\Debug\Forms_programa2_Saludo.pdb
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\obj\Debug\Forms_programa2_Saludo.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\obj\Debug\Forms_programa2_Saludo.Form1.resources
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\obj\Debug\Forms_programa2_Saludo.Properties.Resources.resources
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\obj\Debug\Forms_programa2_Saludo.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\obj\Debug\Forms_programa2_Saludo.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\obj\Debug\Forms_programa2_Saludo.exe
+C:\Users\mauri\source\repos\Forms_programa2_Saludo\Forms_programa2_Saludo\obj\Debug\Forms_programa2_Saludo.pdb

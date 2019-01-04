@@ -1,0 +1,11 @@
+C:\Users\mauri_000\source\repos\Mlg\Mlg\bin\Debug\Mlg.exe.config
+C:\Users\mauri_000\source\repos\Mlg\Mlg\bin\Debug\Mlg.exe
+C:\Users\mauri_000\source\repos\Mlg\Mlg\bin\Debug\Mlg.pdb
+C:\Users\mauri_000\source\repos\Mlg\Mlg\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri_000\source\repos\Mlg\Mlg\obj\Debug\Mlg.csprojResolveAssemblyReference.cache
+C:\Users\mauri_000\source\repos\Mlg\Mlg\obj\Debug\Mlg.menu.resources
+C:\Users\mauri_000\source\repos\Mlg\Mlg\obj\Debug\Mlg.Properties.Resources.resources
+C:\Users\mauri_000\source\repos\Mlg\Mlg\obj\Debug\Mlg.csproj.GenerateResource.Cache
+C:\Users\mauri_000\source\repos\Mlg\Mlg\obj\Debug\Mlg.csproj.CoreCompileInputs.cache
+C:\Users\mauri_000\source\repos\Mlg\Mlg\obj\Debug\Mlg.exe
+C:\Users\mauri_000\source\repos\Mlg\Mlg\obj\Debug\Mlg.pdb

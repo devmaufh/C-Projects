@@ -1,0 +1,7 @@
+C:\Users\mauri\source\repos\Programa4\Programa4\bin\Debug\Programa4.exe.config
+C:\Users\mauri\source\repos\Programa4\Programa4\bin\Debug\Programa4.exe
+C:\Users\mauri\source\repos\Programa4\Programa4\bin\Debug\Programa4.pdb
+C:\Users\mauri\source\repos\Programa4\Programa4\obj\Debug\Programa4.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Programa4\Programa4\obj\Debug\Programa4.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Programa4\Programa4\obj\Debug\Programa4.exe
+C:\Users\mauri\source\repos\Programa4\Programa4\obj\Debug\Programa4.pdb

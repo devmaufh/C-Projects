@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\bin\Debug\Forms4_Conversión.exe.config
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\bin\Debug\Forms4_Conversión.exe
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\bin\Debug\Forms4_Conversión.pdb
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\obj\Debug\Forms4_Conversión.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\obj\Debug\Forms4_Conversión.Form1.resources
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\obj\Debug\Forms4_Conversión.Properties.Resources.resources
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\obj\Debug\Forms4_Conversión.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\obj\Debug\Forms4_Conversión.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\obj\Debug\Forms4_Conversión.exe
+C:\Users\mauri\source\repos\Forms4_Conversión\Forms4_Conversión\obj\Debug\Forms4_Conversión.pdb

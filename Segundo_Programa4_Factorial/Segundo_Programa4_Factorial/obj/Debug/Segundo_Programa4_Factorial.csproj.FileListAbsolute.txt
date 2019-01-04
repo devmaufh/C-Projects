@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\bin\Debug\Segundo_Programa4_Factorial.exe.config
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\bin\Debug\Segundo_Programa4_Factorial.exe
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\bin\Debug\Segundo_Programa4_Factorial.pdb
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\obj\Debug\Segundo_Programa4_Factorial.Form1.resources
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\obj\Debug\Segundo_Programa4_Factorial.Properties.Resources.resources
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\obj\Debug\Segundo_Programa4_Factorial.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\obj\Debug\Segundo_Programa4_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\obj\Debug\Segundo_Programa4_Factorial.exe
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\obj\Debug\Segundo_Programa4_Factorial.pdb
+C:\Users\mauri\source\repos\Segundo_Programa4_Factorial\Segundo_Programa4_Factorial\obj\Debug\Segundo_Programa4_Factorial.csprojResolveAssemblyReference.cache

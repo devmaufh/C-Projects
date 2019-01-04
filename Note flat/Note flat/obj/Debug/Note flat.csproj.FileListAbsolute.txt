@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Note flat\Note flat\bin\Debug\Note flat.exe.config
+C:\Users\mauri\source\repos\Note flat\Note flat\bin\Debug\Note flat.exe
+C:\Users\mauri\source\repos\Note flat\Note flat\bin\Debug\Note flat.pdb
+C:\Users\mauri\source\repos\Note flat\Note flat\obj\Debug\Note flat.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Note flat\Note flat\obj\Debug\Note_flat.Form1.resources
+C:\Users\mauri\source\repos\Note flat\Note flat\obj\Debug\Note_flat.Properties.Resources.resources
+C:\Users\mauri\source\repos\Note flat\Note flat\obj\Debug\Note flat.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Note flat\Note flat\obj\Debug\Note flat.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Note flat\Note flat\obj\Debug\Note flat.exe
+C:\Users\mauri\source\repos\Note flat\Note flat\obj\Debug\Note flat.pdb
+C:\Users\mauri\source\repos\Note flat\Note flat\bin\Debug\Bunifu_UI_v1.5.3.dll

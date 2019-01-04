@@ -1,0 +1,7 @@
+C:\Users\mauri\source\repos\Programa5\Programa5\bin\Debug\Programa5.exe.config
+C:\Users\mauri\source\repos\Programa5\Programa5\bin\Debug\Programa5.exe
+C:\Users\mauri\source\repos\Programa5\Programa5\bin\Debug\Programa5.pdb
+C:\Users\mauri\source\repos\Programa5\Programa5\obj\Debug\Programa5.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Programa5\Programa5\obj\Debug\Programa5.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Programa5\Programa5\obj\Debug\Programa5.exe
+C:\Users\mauri\source\repos\Programa5\Programa5\obj\Debug\Programa5.pdb

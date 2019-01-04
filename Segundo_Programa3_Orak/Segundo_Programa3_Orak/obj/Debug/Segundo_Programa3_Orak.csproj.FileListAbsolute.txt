@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\bin\Debug\Segundo_Programa3_Orak.exe.config
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\bin\Debug\Segundo_Programa3_Orak.exe
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\bin\Debug\Segundo_Programa3_Orak.pdb
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\obj\Debug\Segundo_Programa3_Orak.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\obj\Debug\Segundo_Programa3_Orak.Form1.resources
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\obj\Debug\Segundo_Programa3_Orak.Properties.Resources.resources
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\obj\Debug\Segundo_Programa3_Orak.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\obj\Debug\Segundo_Programa3_Orak.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\obj\Debug\Segundo_Programa3_Orak.exe
+C:\Users\mauri\source\repos\Segundo_Programa3_Orak\Segundo_Programa3_Orak\obj\Debug\Segundo_Programa3_Orak.pdb

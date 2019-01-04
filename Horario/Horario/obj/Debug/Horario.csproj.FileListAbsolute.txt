@@ -1,0 +1,11 @@
+C:\Users\mauri_000\source\repos\Horario\Horario\bin\Debug\Horario.exe.config
+C:\Users\mauri_000\source\repos\Horario\Horario\bin\Debug\Horario.exe
+C:\Users\mauri_000\source\repos\Horario\Horario\bin\Debug\Horario.pdb
+C:\Users\mauri_000\source\repos\Horario\Horario\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri_000\source\repos\Horario\Horario\obj\Debug\Horario.csprojResolveAssemblyReference.cache
+C:\Users\mauri_000\source\repos\Horario\Horario\obj\Debug\Horario.Form1.resources
+C:\Users\mauri_000\source\repos\Horario\Horario\obj\Debug\Horario.Properties.Resources.resources
+C:\Users\mauri_000\source\repos\Horario\Horario\obj\Debug\Horario.csproj.GenerateResource.Cache
+C:\Users\mauri_000\source\repos\Horario\Horario\obj\Debug\Horario.csproj.CoreCompileInputs.cache
+C:\Users\mauri_000\source\repos\Horario\Horario\obj\Debug\Horario.exe
+C:\Users\mauri_000\source\repos\Horario\Horario\obj\Debug\Horario.pdb

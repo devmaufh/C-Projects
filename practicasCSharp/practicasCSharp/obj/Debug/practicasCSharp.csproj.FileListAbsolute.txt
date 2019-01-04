@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\bin\Debug\practicasCSharp.exe.config
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\bin\Debug\practicasCSharp.exe
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\bin\Debug\practicasCSharp.pdb
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\obj\Debug\practicasCSharp.Form1.resources
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\obj\Debug\practicasCSharp.Properties.Resources.resources
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\obj\Debug\practicasCSharp.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\obj\Debug\practicasCSharp.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\obj\Debug\practicasCSharp.exe
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\obj\Debug\practicasCSharp.pdb
+C:\Users\mauri\source\repos\practicasCSharp\practicasCSharp\obj\Debug\practicasCSharp.csprojResolveAssemblyReference.cache

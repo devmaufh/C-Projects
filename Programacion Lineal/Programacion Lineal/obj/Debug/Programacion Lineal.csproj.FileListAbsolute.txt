@@ -1,0 +1,11 @@
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\bin\Debug\Programacion Lineal.exe.config
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\bin\Debug\Programacion Lineal.exe
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\bin\Debug\Programacion Lineal.pdb
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\obj\Debug\Programacion Lineal.csprojResolveAssemblyReference.cache
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\obj\Debug\Programacion_Lineal.Properties.Resources.resources
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\obj\Debug\Programacion Lineal.csproj.GenerateResource.Cache
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\obj\Debug\Programacion Lineal.csproj.CoreCompileInputs.cache
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\obj\Debug\Programacion Lineal.exe
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\obj\Debug\Programacion Lineal.pdb
+C:\Users\mauri_000\source\repos\Programacion Lineal\Programacion Lineal\obj\Debug\Programacion_Lineal.Menu.resources

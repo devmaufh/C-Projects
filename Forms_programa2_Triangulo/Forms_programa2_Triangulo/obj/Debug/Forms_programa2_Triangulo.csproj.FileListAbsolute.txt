@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\bin\Debug\Forms_programa2_Triangulo.exe.config
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\bin\Debug\Forms_programa2_Triangulo.exe
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\bin\Debug\Forms_programa2_Triangulo.pdb
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\obj\Debug\Forms_programa2_Triangulo.Form1.resources
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\obj\Debug\Forms_programa2_Triangulo.Properties.Resources.resources
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\obj\Debug\Forms_programa2_Triangulo.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\obj\Debug\Forms_programa2_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\obj\Debug\Forms_programa2_Triangulo.exe
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\obj\Debug\Forms_programa2_Triangulo.pdb
+C:\Users\mauri\source\repos\Forms_programa2_Triangulo\Forms_programa2_Triangulo\obj\Debug\Forms_programa2_Triangulo.csprojResolveAssemblyReference.cache

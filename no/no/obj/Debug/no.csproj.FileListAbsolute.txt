@@ -1,0 +1,15 @@
+c:\users\mauri\source\repos\no\no\bin\Debug\no.exe.config
+c:\users\mauri\source\repos\no\no\bin\Debug\no.exe
+c:\users\mauri\source\repos\no\no\bin\Debug\no.pdb
+c:\users\mauri\source\repos\no\no\obj\Debug\no.csprojResolveAssemblyReference.cache
+c:\users\mauri\source\repos\no\no\obj\Debug\MainWindow.g.cs
+c:\users\mauri\source\repos\no\no\obj\Debug\App.g.cs
+c:\users\mauri\source\repos\no\no\obj\Debug\no_MarkupCompile.cache
+c:\users\mauri\source\repos\no\no\obj\Debug\no_MarkupCompile.lref
+c:\users\mauri\source\repos\no\no\obj\Debug\MainWindow.baml
+c:\users\mauri\source\repos\no\no\obj\Debug\no.g.resources
+c:\users\mauri\source\repos\no\no\obj\Debug\no.Properties.Resources.resources
+c:\users\mauri\source\repos\no\no\obj\Debug\no.csproj.GenerateResource.Cache
+c:\users\mauri\source\repos\no\no\obj\Debug\no.csproj.CoreCompileInputs.cache
+c:\users\mauri\source\repos\no\no\obj\Debug\no.exe
+c:\users\mauri\source\repos\no\no\obj\Debug\no.pdb

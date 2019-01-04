@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\Conexion\Conexion\bin\Debug\Conexion.exe.config
+C:\Users\mauri\source\repos\Conexion\Conexion\bin\Debug\Conexion.exe
+C:\Users\mauri\source\repos\Conexion\Conexion\bin\Debug\Conexion.pdb
+C:\Users\mauri\source\repos\Conexion\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Conexion\Conexion\obj\Debug\Conexion.Form1.resources
+C:\Users\mauri\source\repos\Conexion\Conexion\obj\Debug\Conexion.Properties.Resources.resources
+C:\Users\mauri\source\repos\Conexion\Conexion\obj\Debug\Conexion.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Conexion\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Conexion\Conexion\obj\Debug\Conexion.exe
+C:\Users\mauri\source\repos\Conexion\Conexion\obj\Debug\Conexion.pdb

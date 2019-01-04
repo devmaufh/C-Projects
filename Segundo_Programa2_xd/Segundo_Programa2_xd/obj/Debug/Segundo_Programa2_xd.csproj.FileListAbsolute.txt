@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\bin\Debug\Segundo_Programa2_xd.exe.config
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\bin\Debug\Segundo_Programa2_xd.exe
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\bin\Debug\Segundo_Programa2_xd.pdb
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\obj\Debug\Segundo_Programa2_xd.Form1.resources
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\obj\Debug\Segundo_Programa2_xd.Properties.Resources.resources
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\obj\Debug\Segundo_Programa2_xd.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\obj\Debug\Segundo_Programa2_xd.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\obj\Debug\Segundo_Programa2_xd.exe
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\obj\Debug\Segundo_Programa2_xd.pdb
+C:\Users\mauri\source\repos\Segundo_Programa2_xd\Segundo_Programa2_xd\obj\Debug\Segundo_Programa2_xd.csprojResolveAssemblyReference.cache

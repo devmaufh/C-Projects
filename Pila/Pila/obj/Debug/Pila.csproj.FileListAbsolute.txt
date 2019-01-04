@@ -1,0 +1,7 @@
+C:\Users\mauri_000\source\repos\Pila\Pila\bin\Debug\Pila.exe.config
+C:\Users\mauri_000\source\repos\Pila\Pila\bin\Debug\Pila.exe
+C:\Users\mauri_000\source\repos\Pila\Pila\bin\Debug\Pila.pdb
+C:\Users\mauri_000\source\repos\Pila\Pila\obj\Debug\Pila.csproj.CoreCompileInputs.cache
+C:\Users\mauri_000\source\repos\Pila\Pila\obj\Debug\Pila.exe
+C:\Users\mauri_000\source\repos\Pila\Pila\obj\Debug\Pila.pdb
+C:\Users\mauri_000\source\repos\Pila\Pila\obj\Debug\Pila.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\bin\Debug\Forms_programa_Residui.exe.config
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\bin\Debug\Forms_programa_Residui.exe
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\bin\Debug\Forms_programa_Residui.pdb
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\obj\Debug\Forms_programa_Residui.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\obj\Debug\Forms_programa_Residui.Form1.resources
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\obj\Debug\Forms_programa_Residui.Properties.Resources.resources
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\obj\Debug\Forms_programa_Residui.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\obj\Debug\Forms_programa_Residui.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\obj\Debug\Forms_programa_Residui.exe
+C:\Users\mauri\source\repos\Forms_programa_Residui\Forms_programa_Residui\obj\Debug\Forms_programa_Residui.pdb

@@ -1,0 +1,7 @@
+C:\Users\mauri_000\source\repos\Programa2\Programa2\bin\Debug\Programa2.exe.config
+C:\Users\mauri_000\source\repos\Programa2\Programa2\bin\Debug\Programa2.exe
+C:\Users\mauri_000\source\repos\Programa2\Programa2\bin\Debug\Programa2.pdb
+C:\Users\mauri_000\source\repos\Programa2\Programa2\obj\Debug\Programa2.csprojResolveAssemblyReference.cache
+C:\Users\mauri_000\source\repos\Programa2\Programa2\obj\Debug\Programa2.csproj.CoreCompileInputs.cache
+C:\Users\mauri_000\source\repos\Programa2\Programa2\obj\Debug\Programa2.exe
+C:\Users\mauri_000\source\repos\Programa2\Programa2\obj\Debug\Programa2.pdb

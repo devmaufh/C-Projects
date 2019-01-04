@@ -1,0 +1,7 @@
+C:\Users\mauri\source\repos\Programa 6\Programa 6\bin\Debug\Programa 6.exe.config
+C:\Users\mauri\source\repos\Programa 6\Programa 6\bin\Debug\Programa 6.exe
+C:\Users\mauri\source\repos\Programa 6\Programa 6\bin\Debug\Programa 6.pdb
+C:\Users\mauri\source\repos\Programa 6\Programa 6\obj\Debug\Programa 6.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Programa 6\Programa 6\obj\Debug\Programa 6.exe
+C:\Users\mauri\source\repos\Programa 6\Programa 6\obj\Debug\Programa 6.pdb
+C:\Users\mauri\source\repos\Programa 6\Programa 6\obj\Debug\Programa 6.csprojResolveAssemblyReference.cache

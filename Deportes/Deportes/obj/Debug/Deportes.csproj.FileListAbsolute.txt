@@ -1,0 +1,11 @@
+C:\Users\mauri\source\repos\Deportes\Deportes\bin\Debug\Deportes.exe.config
+C:\Users\mauri\source\repos\Deportes\Deportes\bin\Debug\Deportes.exe
+C:\Users\mauri\source\repos\Deportes\Deportes\bin\Debug\Deportes.pdb
+C:\Users\mauri\source\repos\Deportes\Deportes\obj\Debug\Deportes.csprojResolveAssemblyReference.cache
+C:\Users\mauri\source\repos\Deportes\Deportes\obj\Debug\Deportes.Form1.resources
+C:\Users\mauri\source\repos\Deportes\Deportes\obj\Debug\Deportes.Properties.Resources.resources
+C:\Users\mauri\source\repos\Deportes\Deportes\obj\Debug\Deportes.csproj.GenerateResource.Cache
+C:\Users\mauri\source\repos\Deportes\Deportes\obj\Debug\Deportes.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Deportes\Deportes\obj\Debug\Deportes.exe
+C:\Users\mauri\source\repos\Deportes\Deportes\obj\Debug\Deportes.pdb
+C:\Users\mauri\source\repos\Deportes\Deportes\obj\Debug\Deportes.Ticket.resources
